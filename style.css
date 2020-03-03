@@ -1,0 +1,49 @@
+
+body{ 
+	background-color: #dcd6f7;
+	color: black;
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+h2{
+	font-family: 'Roboto Slab', serif;
+}
+
+img {
+	width: 100px;
+	border-radius: 100px;
+	
+}
+
+.container{
+	border: 2px solid black;
+	border-radius: 30px;
+	padding: 10px;
+	margin: 20px;
+	box-shadow: 3px 3px 10px rgba(0,0,0,0.5)
+}
+
+.btn-design{
+	
+	background-color: #a6b1e1;
+	font-weight:bold;
+}
+
+
+.list {
+	list-style: none;
+	padding-left: 0px;
+}
+
+#list-inline li{
+	display: inline;
+	padding: 20px;
+}
+
+#list-inline i {
+	font-size: 100px;
+}
+
